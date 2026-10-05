@@ -1,6 +1,6 @@
 # EuroSAT PyTorch Classifier
 
-This is a Convolutional Neural Network model developed with PyTorch for classifying the EuroSAT dataset. It achieves 95.23% test accuracy and 95.63% validation accuracy. The section below describes the model specifications:
+This is a Convolutional Neural Network model developed with PyTorch for classifying the EuroSAT dataset. It achieves 95.23% test accuracy and 95.63% validation accuracy.
 
 ## Model Configuration
 
